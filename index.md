@@ -148,7 +148,7 @@ Signed,
 
 [Sergei Shilin](https://github.com/GutsyHeart)
 
-[киберджин](https://github.com/codefather-labs)
-
 [Adam Katz](https://github.com/dial8gue)
+
+[Andrey](https://github.com/OmgNoob)
 
